@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893283158373",
+    "firebase_url": "https://hire-me-2568d.firebaseio.com",
+    "project_id": "hire-me-2568d",
+    "storage_bucket": "hire-me-2568d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893283158373:android:a3634f98f42febbb98f98c",
+        "android_client_info": {
+          "package_name": "com.dom_broks.hireme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893283158373-mtfqoi9gp8fe7hoo4hii14jjbe3jg5r1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dom_broks.hireme",
+            "certificate_hash": "10f5bcfdd608426773a06324ed42c26a821edefd"
+          }
+        },
+        {
+          "client_id": "893283158373-b1ui7n54ng8pir1oun8al72oq8ns86co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCfj92TzfP34VqbY5_Os9o7BwaqwswDYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893283158373-b1ui7n54ng8pir1oun8al72oq8ns86co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
